@@ -20,11 +20,11 @@ Bot = Client(
 START_TEXT = """
 Hello {}, I am a simple calculator telegram bot. Send me /calculator.
 
-Made by @FayasNoushad
+Made by @Hyetelegram 
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://t.me/ODINBots')
         ]]
     )
 CALCULATE_TEXT = "Made by @FayasNoushad"
