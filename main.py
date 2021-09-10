@@ -31,7 +31,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://t.me/ODINBots')
         ]]
     )
-CALCULATE_TEXT = "Made by @FayasNoushad"
+CALCULATE_TEXT = "Made by @Hyetelegram"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
