@@ -28,7 +28,7 @@ Made by @Hyetelegram
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://t.me/ODINBots')
+        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://t.me/HyetelegramBots')
         ]]
     )
 CALCULATE_TEXT = "Made by @Hyetelegram"
